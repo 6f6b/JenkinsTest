@@ -1,0 +1,3 @@
+xcodebuild clean
+xcodebuild
+
